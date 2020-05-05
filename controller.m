@@ -52,8 +52,6 @@ Beff = bm3 + bg4;
 L = L3;
 R = R3;
 
-KC = 0.1;
-
 % Simulink
 out = sim('coolcats',...
           'StartTime', '-.1e-6',...
